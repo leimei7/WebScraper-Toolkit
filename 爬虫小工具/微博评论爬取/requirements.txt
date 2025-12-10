@@ -1,0 +1,4 @@
+requests~=2.32.3
+jsonpath_ng
+beautifulsoup4~=4.13.3
+jsonpath-ng~=1.7.0
